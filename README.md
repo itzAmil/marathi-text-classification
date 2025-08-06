@@ -44,8 +44,8 @@ A machine learning project that classifies **Marathi-language text** into predef
 
 ---
 
-👤 Author
-Project restructured and documented by Amil
+## 👤 Author
+Project restructured and documented by Amil.
 Originally developed as part of a group academic project.
 
 ---
