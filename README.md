@@ -32,16 +32,6 @@ A machine learning project that classifies **Marathi-language text** into predef
 
 ---
 
-## 📊 Model Performance (from training notebook)
-
-     Model	          Accuracy
-✅ Naive Bayes	          Best
-Logistic Regression	       Good
-Random Forest	           Decent
-SVM (Linear)	            Good
-
----
-
 🧰 Tech Stack
 
 - Python 3.13
