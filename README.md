@@ -18,7 +18,7 @@ A machine learning project that classifies **Marathi-language text** into predef
 ## 🧠 How It Works
 
 1. User inputs Marathi text
-2. Text is cleaned and stopwords removed
+2. Text is cleaned and stopwords are removed
 3. TF-IDF vectorization is applied
 4. Trained model predicts the category
 5. Label encoder returns the final category name
