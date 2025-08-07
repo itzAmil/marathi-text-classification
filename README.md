@@ -49,9 +49,19 @@ This project demonstrates multilingual NLP workflows using scikit-learn and high
 
 ---
 
-## 👤 Author
-- Project restructured and documented by Amil.
-- Originally developed as part of a group academic project.
+👥 Contributors
+This project was originally developed as part of a group academic project.
+
+Original Contributors:
+
+- Amil Gauri (Maintainer)
+- Vikas Pandit
+- Ajay Chaurasiya
+
+Project restructured, documented, and maintained by Amil Gauri for public release.
+
+👤 Maintainer
+Amil Gauri – restructuring, documentation, and deployment for public release.
 
 ---
 
