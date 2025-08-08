@@ -2,20 +2,19 @@
 
 **Marathi Text Classification** is a Natural Language Processing (NLP) project designed to automatically classify text written in the Marathi language into predefined categories. 
 
-The project uses techniques such as stopword removal, TF-IDF feature extraction, and machine learning models including Naive Bayes, Logistic Regression, SVM, and Random Forest. It also includes a deployable Streamlit app for real-time predictions using the best-performing model.
+The project uses techniques such as stopword removal, TF-IDF feature extraction, and machine learning models including Naive Bayes, Logistic Regression, SVM, and Random Forest. It also includes a deployable Streamlit App for real-time predictions using the best-performing model.
 
-This project demonstrates multilingual NLP workflows using scikit-learn and highlights how to build and deploy a full text classification pipeline for Indian languages.
+This project demonstrates NLP workflows using scikit-learn and highlights how to build and deploy a full text classification pipeline for Marathi language.
 
 ---
-
 
 ## 🚀 Features
 
 - Marathi stopword removal and text preprocessing
-- Feature extraction using **TF-IDF Vectorizer**
+- Feature extraction using TF-IDF Vectorizer
 - Multiple models tested: Naive Bayes, Logistic Regression, SVM, Random Forest
-- Final model: ✅ Multinomial Naive Bayes (best performing)
-- Frontend: **Streamlit app** for live text classification
+- Final model: ✅ Naive Bayes (best performing)
+- Frontend: Streamlit used for live text classification
 - Models and vectorizer saved using `pickle`
 
 ---
@@ -37,7 +36,7 @@ This project demonstrates multilingual NLP workflows using scikit-learn and high
 
 ---
 
-🧰 Tech Stack
+ ## 🧰 Tech Stack
 
 - Python 3.13
 - Streamlit
@@ -49,7 +48,7 @@ This project demonstrates multilingual NLP workflows using scikit-learn and high
 
 ---
 
-### 👥 Contributors
+## 👥 Contributors
 
 This project was originally developed as part of a group academic project.
 
@@ -59,10 +58,6 @@ This project was originally developed as part of a group academic project.
 - Ajay Chaurasiya  
 
 > Project restructured, documented, and maintained by **Amil Gauri** for public release.
-
-### 👤 Maintainer
-
-**Amil Gauri** – restructuring, documentation, and deployment for public release.
 
 ---
 
