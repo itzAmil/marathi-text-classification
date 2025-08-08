@@ -2,7 +2,7 @@
 
 **Marathi Text Classification** is a Natural Language Processing (NLP) project designed to automatically classify text written in the Marathi language into predefined categories. 
 
-The project uses techniques such as stopword removal, TF-IDF feature extraction, and machine learning models including Naive Bayes, Logistic Regression, SVM, and Random Forest. It also includes a frontend that is made using Streamlit for real-time predictions using the best-performing model.
+The project uses techniques such as stopword removal, TF-IDF feature extraction, and machine learning models including Naive Bayes, Logistic Regression, SVM, and Random Forest. It also includes a user interface that is made using Streamlit for real-time predictions using the best-performing model.
 
 This project demonstrates NLP workflows using scikit-learn and highlights how to build and deploy a full text classification pipeline for Marathi language.
 
