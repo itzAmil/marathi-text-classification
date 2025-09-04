@@ -8,18 +8,18 @@ This project demonstrates NLP workflows using scikit-learn and highlights how to
 
 ---
 
-## 🚀 Features
+## Features
 
 - Marathi stopword removal and text preprocessing
 - Feature extraction using TF-IDF Vectorizer
 - Multiple models tested: Naive Bayes, Logistic Regression, SVM, Random Forest
-- Final model: ✅ Naive Bayes (best performing)
+- Final model: Naive Bayes (best performing)
 - Frontend: Streamlit used for live text classification
 - Models and vectorizer saved using `pickle`
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. User inputs Marathi text
 2. Text is cleaned and stopwords are removed
@@ -29,18 +29,18 @@ This project demonstrates NLP workflows using scikit-learn and highlights how to
 
 ---
 
-## 📁 Dataset
+## Dataset
 
-> ⚠️ **Note:** The file `marathi_sample.csv` contains 20 synthetic sample rows.  
+> **Note:** The file `marathi_sample.csv` contains 20 synthetic sample rows.  
 > It is intended for demo/testing only and **is not the actual dataset** used during model training.
 
 ---
 
- ## 🧰 Tech Stack
+ ## Tech Stack
 
 - Python 3.13
 - Streamlit
-- Scikit-learn
+- Scikit-Learn
 - Pandas
 - NLTK (for stopword removal)
 - TF-IDF Vectorizer
@@ -48,7 +48,7 @@ This project demonstrates NLP workflows using scikit-learn and highlights how to
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 This project was originally developed as part of a group academic project.
 
@@ -61,7 +61,7 @@ This project was originally developed as part of a group academic project.
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source under the **MIT License**.  
 You are free to use, modify, and distribute it with proper credit.
