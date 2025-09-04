@@ -31,7 +31,7 @@ This project demonstrates NLP workflows using scikit-learn and highlights how to
 
 ## Dataset
 
-**Note:** The file `marathi_sample.csv` contains 20 synthetic sample rows.  
+**Note:** The file marathi_sample.csv contains 20 synthetic sample rows.  
 It is intended for demo/testing only and **is not the actual dataset** used during model training.
 
 ---
@@ -57,7 +57,7 @@ This project was originally developed as part of a group academic project.
 - Vikas Pandit  
 - Ajay Chaurasiya  
 
-> Project restructured, documented, and maintained by **Amil Gauri** for public release.
+Project restructured, documented, and maintained by **Amil Gauri** for public release.
 
 ---
 
